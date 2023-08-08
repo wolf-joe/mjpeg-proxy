@@ -6,7 +6,9 @@
 ## usage
 
 ```shell
-# todo
+go install github.com/wolf-joe/mjpeg-proxy@latest
+# set host & port, then run
+HOST_PORT=":8091" $GOBIN/mjpeg-proxy
 ```
 
 ## arch
